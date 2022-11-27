@@ -36,8 +36,21 @@ export const Skillsdata=[
                 icon: <i class="devicon-mysql-plain-wordmark colored"></i>,
             },
             {
-                name:"PostgreSql",
-                icon: <i class="devicon-postgresql-plain colored"></i>,
+                name:"Flutter",
+                icon: <i class="devicon-flutter-plain colored"></i>,
+            },
+        ],
+    },
+    {
+        type:"Tools",
+        list: [
+            {
+                name:"Git",
+                icon: <i class="devicon-git-plain colored"></i>,
+            },
+            {
+                name:"Svn(Subversion)",
+                icon: <i class="devicon-subversion-original colored"></i>,
             },
         ],
     },
@@ -53,8 +66,8 @@ export const Skillsdata=[
                 icon: <i class="devicon-python-plain-wordmark"></i>,
             },
             {
-                name:"core Java",
-                icon:<i class="devicon-java-plain colored"></i>,
+                name:"Dart",
+                icon:<i class="devicon-dart-plain colored"></i>,
             },
             {
                 name:"C#",
