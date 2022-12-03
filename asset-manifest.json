@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ShadmanPortfolio/static/css/main.1884d178.chunk.css",
+    "main.js": "/ShadmanPortfolio/static/js/main.797f1336.chunk.js",
+    "main.js.map": "/ShadmanPortfolio/static/js/main.797f1336.chunk.js.map",
+    "runtime-main.js": "/ShadmanPortfolio/static/js/runtime-main.8840ce33.js",
+    "runtime-main.js.map": "/ShadmanPortfolio/static/js/runtime-main.8840ce33.js.map",
+    "static/js/2.b3bc2973.chunk.js": "/ShadmanPortfolio/static/js/2.b3bc2973.chunk.js",
+    "static/js/2.b3bc2973.chunk.js.map": "/ShadmanPortfolio/static/js/2.b3bc2973.chunk.js.map",
+    "index.html": "/ShadmanPortfolio/index.html",
+    "static/css/main.1884d178.chunk.css.map": "/ShadmanPortfolio/static/css/main.1884d178.chunk.css.map",
+    "static/js/2.b3bc2973.chunk.js.LICENSE.txt": "/ShadmanPortfolio/static/js/2.b3bc2973.chunk.js.LICENSE.txt",
+    "static/media/DP.png": "/ShadmanPortfolio/static/media/DP.63d29a0c.png",
+    "static/media/coding.png": "/ShadmanPortfolio/static/media/coding.5f139ff7.png",
+    "static/media/gym.png": "/ShadmanPortfolio/static/media/gym.02f82207.png",
+    "static/media/pulseLogo.png": "/ShadmanPortfolio/static/media/pulseLogo.1a1a3762.png",
+    "static/media/shadman_nehal_khan_resume.pdf": "/ShadmanPortfolio/static/media/shadman_nehal_khan_resume.dd84e946.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8840ce33.js",
+    "static/js/2.b3bc2973.chunk.js",
+    "static/css/main.1884d178.chunk.css",
+    "static/js/main.797f1336.chunk.js"
+  ]
+}
