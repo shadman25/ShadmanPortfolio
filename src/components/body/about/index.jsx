@@ -11,7 +11,7 @@ function About() {
         <div className="about-info">
         Hello there 👋, 
             This is<br /><span className="info-name"> Shadman Nehal Khan</span><br />
-            Working as an Adnroid developer Always in a hunt of exploring
+            Working as an Android developer Always in a hunt of exploring
             new tech. and tools be updated with the upcoming technologies.
 
         </div>
